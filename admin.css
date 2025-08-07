@@ -1,0 +1,33 @@
+a {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+body {
+     background: url("./img/background.jpg");
+   
+}
+table {
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: rgb(171, 237, 17) ;
+}
+
+th {
+    border: 1px solid #d4df0b;
+    padding: 12px;
+    background-color: #e66007c7;
+    color: white;
+}
+
+td {
+    border: 0.5px solid #111111;
+}
+
+h2 {
+    font-size: 40px;
+    color: #15d8e3;
+    text-align: center;
+}
